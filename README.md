@@ -2,6 +2,14 @@
 
 A structured framework for AI product strategy, market development, opportunity assessment, and project governance.
 
+## Official ISDS Product Catalog
+
+The official ISDS AI product catalog is available at the following link:
+
+**[Explore the ISDS AI Product Catalog](https://alinazarizadeh.github.io/ISDSProducts/)**
+
+This catalog serves as a reference for understanding the existing product portfolio, identifying product capabilities, and mapping AI solutions to industry needs and business opportunities.
+
 ## Objectives
 
 - Map the existing ISDS AI product portfolio.
@@ -26,3 +34,11 @@ A structured framework for AI product strategy, market development, opportunity 
 ## Status
 
 Initial framework — under development.
+
+## Repository Principles
+
+- Maintain structured documentation for each project stage.
+- Keep English documentation as the primary reference and provide Persian translations where needed.
+- Separate market hypotheses from validated findings.
+- Document assumptions, evidence, decisions, and next actions.
+- Update opportunity priorities as new customer and market evidence becomes available.
